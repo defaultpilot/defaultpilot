@@ -15,6 +15,7 @@
 <strong>random name (aka daygold)</strong>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
+</tr>
 <hr> 
 Thank you for visiting! ✨
 </div>
