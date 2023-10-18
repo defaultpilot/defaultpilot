@@ -15,7 +15,6 @@
 <a href="https://github.com/defaultpilot/daygold">
 <strong>random name (aka daygold)</strong>
 </a>
- < hr>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 </a>
