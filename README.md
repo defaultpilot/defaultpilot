@@ -16,5 +16,4 @@
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 <br>
-Thank you for visiting! ✨
 </div>
