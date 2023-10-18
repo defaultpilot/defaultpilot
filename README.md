@@ -9,13 +9,15 @@
  <h2>Links to my (half-baked) projects</h2>
 <td align="center">
 <a href="defaultpilot.github.io">
-</a>
 <strong>web dev xp gain (aka my website)</strong>
+ </a>
  <hr>
 <a href="https://github.com/defaultpilot/daygold">
 <strong>random name (aka daygold)</strong>
+</a>
  < hr>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
-<br>
+</a>
+<hr>
 </div>
