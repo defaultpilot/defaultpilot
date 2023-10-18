@@ -20,4 +20,6 @@
 <strong>aptly named (aka aRandomBlog)</strong>
 </a>
 </td>
+<hr>
+ <strong><p>Thanks for visiting! ✨</p></strong>
 </div>
