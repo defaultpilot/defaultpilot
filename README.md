@@ -10,8 +10,9 @@
 <td align="center">
 <a href="defaultpilot.github.io">
 <strong>web dev xp gain (aka my website)</strong>
+ <hr>
 <a href="https://github.com/defaultpilot/daygold">
-<strong>random name with no mean whatsoever (aka daygold)</strong>
+<strong>random name with no meaning whatsoever (aka daygold)</strong>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 <br>
