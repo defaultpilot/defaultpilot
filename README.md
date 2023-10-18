@@ -6,7 +6,7 @@
   <strong><p>BTW, as I'm your default pilot, you might need me. Contact me at twelvereon@gmail.com! 😎</p></strong>
 <table width="100%">
 <tr>
- <h2>Links to my (half-baked) projects</h2>
+ <th>Links to my (half-baken) projects</th>
  <td align="center">
 <a href="defaultpilot.github.io">
 <strong>web dev xp gain (aka my website)</strong>
@@ -20,5 +20,6 @@
 <strong>aptly named (aka aRandomBlog)</strong>
 </a>
 </table>
+<hr>
  <strong><p>Thanks for visiting! ✨</p></strong>
 </div>
