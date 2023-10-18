@@ -19,7 +19,7 @@
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 </a>
-</td>
+</tr>
 <hr>
  <strong><p>Thanks for visiting! ✨</p></strong>
 </div>
