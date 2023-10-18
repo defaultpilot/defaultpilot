@@ -9,6 +9,7 @@
  <h2>Links to my (half-baked) projects</h2>
 <td align="center">
 <a href="defaultpilot.github.io">
+</a>
 <strong>web dev xp gain (aka my website)</strong>
  <hr>
 <a href="https://github.com/defaultpilot/daygold">
