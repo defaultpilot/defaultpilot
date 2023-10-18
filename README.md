@@ -14,8 +14,7 @@
 <strong>random name with no mean whatsoever (aka daygold)</strong>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
-<br />
-<br />
+<br>
 <hr> 
 Thank you for visiting! ✨
 </div>
