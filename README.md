@@ -19,5 +19,5 @@
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 </a>
-<hr>
+</td>
 </div>
