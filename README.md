@@ -13,6 +13,7 @@
  <hr>
 <a href="https://github.com/defaultpilot/daygold">
 <strong>random name (aka daygold)</strong>
+ < hr>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 <br>
