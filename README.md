@@ -22,7 +22,7 @@
 </a>
 <hr>
 <a href="https://github.com/defaultpilot/quizsolver">
-<strong>get that classroom social cred(aka quizsolver)</strong>
+<strong>get that classroom social cred (aka quizsolver)</strong>
 </a>
 </table>
 <hr>
