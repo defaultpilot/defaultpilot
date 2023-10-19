@@ -3,7 +3,7 @@
   </div>
   <div>
   <strong><p>I'm working on daygold (kernel), aRandomBlog (blog stuff) with <a href="https://byte1001.dev" target="_blank">byte1001</a>, and my website! 💻</strong></p>
-  <strong><p>BTW, as I'm your default pilot, you might need me. Contact me at twelvereon@gmail.com! 😎</p></strong>
+  <strong><p>BTW, as I'm your default pilot, you might need me. Contact me at <a href="mailto:twelvereon@gmail.com">twelvereon@gmail.com!</a>😎</p></strong>
  <hr>
 <table width="100%">
 <tr>
