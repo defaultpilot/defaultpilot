@@ -20,6 +20,10 @@
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
 </a>
+<hr>
+<a href="https://github.com/defaultpilot/quizsolver">
+<strong>get that classroom social cred(aka quizsolver)</strong>
+</a>
 </table>
 <hr>
  <strong><p>Thanks for visiting! ✨</p></strong>
