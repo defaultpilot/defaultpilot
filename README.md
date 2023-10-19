@@ -7,7 +7,7 @@
  <hr>
 <table width="100%">
 <tr>
- <th>Links to My (half-baken) Projects 😮</th>
+ <th>Links to my (half-baken) projects 😮</th>
  <td align="center">
 <a href="https://defaultpilot.github.io">
 <strong>web dev xp gain (aka my website)</strong>
