@@ -1,5 +1,5 @@
 <div align="center">
- <h1>**⌨️keyboard sounds⌨️**</h1>
+ <h1>**⌨keyboard sounds⌨️**</h1>
   </div>
   <div>
   <strong><p>I'm working on daygold (kernel), aRandomBlog (blog stuff) with <a href="https://byte1001.dev" target="_blank">byte1001</a>, quizsolver (smth to win your kahoot/blooket/quizizz/etc), and my website! 💻</strong></p>
