@@ -19,6 +19,9 @@
  <hr>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
+ <strong>/</strong>
+<a href="https://byte1001.github.io/aRandomBlog/">
+<strong>aRandomBlog website</strong> 
 </a>
 <hr>
 <a href="https://github.com/defaultpilot/quizsolver">
