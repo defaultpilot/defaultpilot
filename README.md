@@ -19,6 +19,7 @@
  <hr>
 <a href="https://github.com/byte1001/aRandomBlog">
 <strong>aptly named (aka aRandomBlog)</strong>
+</a>
  <strong>/</strong>
 <a href="https://byte1001.github.io/aRandomBlog/">
 <strong>aRandomBlog website</strong> 
@@ -26,6 +27,10 @@
 <hr>
 <a href="https://github.com/defaultpilot/quizsolver">
 <strong>get that classroom social cred (aka quizsolver)</strong>
+</a>
+<strong>/</stong>
+<a href="https://defaultpilot.github.io/quizsolver/">
+<strong>quizsolver website</strong>
 </a>
 </table>
 <hr>
