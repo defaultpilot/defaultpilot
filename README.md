@@ -13,7 +13,7 @@
 <strong>web dev xp gain (aka my website)</strong>
  </a>
  <hr>
-<a href="https://defaultpilot.github.io">
+<a href="https://github.com/defaultpilot/lunarRGB">
 <strong>there's lunar fsr (aka lunarRGB)</strong>
  </a>
  <hr>
