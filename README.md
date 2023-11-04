@@ -2,7 +2,7 @@
  <h1>⌨️ **keyboard sounds** ⌨️</h1>
   </div>
   <div>
-  <strong><p>I'm working on aRandomBlog (blog stuff) with <a href="https://byte1001.dev" target="_blank">byte1001</a>, grinding <a href = "https://leetcode.com/" target = "_blank">leetcode </a>, and my website! 💻</strong></p>
+  <strong><p>I'm working on aRandomBlog (blog stuff) with <a href="https://byte1001.dev" target="_blank">byte1001</a>, grinding <a href = "https://leetcode.com/" target = "_blank">leetcode</a>, and my website! 💻</strong></p>
   <strong><p>BTW, as I'm your default pilot, you might need me. Contact me at <a href="mailto:twelvereon@gmail.com">twelvereon@gmail.com</a>. 😎</p></strong>
  <hr>
 <table width="100%">
