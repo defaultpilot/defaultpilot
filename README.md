@@ -14,7 +14,7 @@
  </a>
  <hr>
 <a href="https://github.com/defaultpilot/8bitexcel">
-<strong>data sci: the game (aka 8bitexcel)</strong>
+<strong>data: the game (aka 8bitexcel)</strong>
 </a>
 </table>
 <hr>
