@@ -21,3 +21,5 @@
 <hr>
  <strong><p>Thanks for visiting! ✨</p></strong>
 </div>
+<hr>
+<p><strong><a href = "https://github.com/byte1001" target = "_blank">Byte1001</a> doesn't know what he's doing. 🤫</strong></p>
