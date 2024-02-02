@@ -15,7 +15,7 @@
  </a>
  <hr>
 <a href="https://github.com/defaultpilot/planedonut">
-<strong>data: the game (aka 8bitexcel)</strong>
+<strong>donuts go brrrrrr</strong>
 </a>
 </table>
 <hr>
